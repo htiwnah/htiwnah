@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/profile-banner.svg" alt="Sai Hanwith Bellamkonda banner" width="1200" height="280">
+<img src="profile-banner.svg" alt="Sai Hanwith Bellamkonda banner" width="1200" height="280">
 
 </div>
 
@@ -28,7 +28,9 @@ Moving from daily 500K-record ETL pipelines, tabular ML, and NLP search at IBM t
 
 ## Tech Stack by Depth
 
-Yardstick: **Production Ownership** (`██████████`) = architected, tuned, and operated in production; **Production Shipping** (`████████░░`) = built and shipped production features; **Applied / Project** (`██████░░░░`) = implemented in graduate or targeted technical systems.
+Yardstick: **Production Ownership** (`██████████`) = architected, tuned, and operated in production
+**Production Shipping** (`████████░░`) = built and shipped production features
+**Applied / Project** (`██████░░░░`) = implemented in graduate or targeted technical systems.
 
 | Area | Level | Meter | Resume-Grounded Evidence |
 | :--- | :--- | :--- | :--- |
@@ -63,5 +65,5 @@ Yardstick: **Production Ownership** (`██████████`) = archite
 
 * **GitHub:** `https://github.com/htiwnah`
 * **Email:** `saihanwith.b@mycvcareer.com`
-* **LinkedIn:** `[Replace with your LinkedIn profile URL]`
+* **LinkedIn:** `https://www.linkedin.com/in/hanwith-bellamkonda-385a47240/`
 * **Availability:** Open to Relocation
